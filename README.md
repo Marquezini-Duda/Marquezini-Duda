@@ -1,9 +1,10 @@
-# Hello, I'm Eduarda M Pereira 👋
+# Hellou, I'm Eduarda M Pereira 👋
 
 **`🎓 Systems Analysis and Development Student`**
 
 A proactive student focused on integrating business vision with technological solutions. I'm studying Systems Analysis and Development at Grupo Anima Educação - FASEH, with a solid foundation in Supply Intelligence, Data Analysis, and Process Optimization. My goal is to join a technology team to apply and expand my knowledge in a dynamic technological environment. I'm willing to learn and develop in programming languages ​​and new technologies.
 
+</p>
 <p align="left">
     <a href="https://www.linkedin.com/in/eduarda-marquezini-pereira-a22b54334/">
         <img 
@@ -21,6 +22,7 @@ A proactive student focused on integrating business vision with technological so
     />
 </a>
 
+
   ---
   ### 💻 Highlights
 
@@ -36,6 +38,4 @@ A proactive student focused on integrating business vision with technological so
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Marquezini-Duda&show_icons=true&theme=github_dark&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" />
 </p>
-
  
-</p>
