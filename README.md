@@ -2,7 +2,7 @@
 
 **`🎓 Systems Analysis and Development Student`**
 
-A proactive student focused on integrating business vision with technological solutions. I'm studying Systems Analysis and Development at Grupo Anima Educação - FASEH, with a solid foundation in Supply Intelligence, Data Analysis, and Process Optimization. My goal is to join a technology team to apply and expand my knowledge in a dynamic technological environment. I'm willing to learn and develop in programming languages ​​and new technologies.
+A student focused on integrating business vision with technological solutions. I'm studying Systems Analysis and Development at Grupo Anima Educação - FASEH, with a solid foundation in Supply Intelligence, Data Analysis, and Process Optimization. My goal is to join a technology team to apply and expand my knowledge in a dynamic technological environment. I'm willing to learn and develop in programming languages ​​and new technologies.
 
 </p>
 <p align="left">
